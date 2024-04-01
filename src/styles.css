@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  background-color: rgba(229, 203, 54, 0.976);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
